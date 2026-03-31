@@ -1,1 +1,1 @@
-# CPS IoT Competition #
+# CPS IoT QCar Competition #
