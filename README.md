@@ -1,1 +1,1 @@
-# CPT IoT Competition #
+# CPS IoT Competition #
